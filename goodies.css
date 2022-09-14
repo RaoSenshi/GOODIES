@@ -1,4 +1,9 @@
-.container
+.carousel-inner
 {
-    
+    width: 50%;
+    height: 1000px;
+    margin: auto;
+    margin-top: 3%;
+    border: 1px hidden ;
+    border-radius: 10px;
 }
