@@ -1,2 +1,2 @@
-welcome to our prgitoject   
+welcome to our goodies project  
 :)
