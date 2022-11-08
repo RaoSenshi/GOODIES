@@ -1,2 +1,2 @@
-welcome to our alpha project goodies  
+welcome to our project   
 :)
