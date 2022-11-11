@@ -1,2 +1,1 @@
-welcome to our goodies project  
-:)
+goodie 
